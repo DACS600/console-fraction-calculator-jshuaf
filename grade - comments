@@ -1,0 +1,5 @@
+check plus - check plus plus
+
+1 - Very nicely done!  Great work on the user interface.  Everythings works too!!
+2 - Would be nice to allow the user to start over or even to quit the program.
+3 - Objective-C method names are supposed to read like a sentence, so yours should be something like addFraction: (Fraction *)fraction 1 To: (Fraction *)fraction2
